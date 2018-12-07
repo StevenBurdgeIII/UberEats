@@ -13,7 +13,6 @@ function setup() {
     }
 }
 
-
 function draw() {
     background('#FFFAED');
 
@@ -23,6 +22,10 @@ function draw() {
     for(var i = 0; i < feed.length; i++) {
         feed[i].display();
     }
+}
+
+function mousePressed() {
+    bear.eat();
 }
 
 function Food(x, y) {
