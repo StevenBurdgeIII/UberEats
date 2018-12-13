@@ -24,3 +24,7 @@ Bears
 Cheifs
 Rams
 Saints
+
+Raymore 
+Olathe
+Leawood
