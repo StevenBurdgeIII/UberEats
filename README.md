@@ -19,3 +19,8 @@ git push origin master
 Khalil Mack 
 Aaron Donald 
 Von Miller 
+
+Bears 
+Cheifs
+Rams
+Saints
