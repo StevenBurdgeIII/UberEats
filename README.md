@@ -6,3 +6,13 @@ git add *
 git commit -m "Describe what you did"  
 git push origin master  
 
+ This is a blockquote.
+ 
+ This is the second paragraph in the blockquote.
+
+ This is an H2 in a blockquote
+
+   Candy.
+   Gum.
+  Booze.
+
